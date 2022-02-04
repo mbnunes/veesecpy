@@ -1,0 +1,8 @@
+{
+    "cameras": {
+        "camera_1": "",
+        "camera_2": ""
+    },
+    "root_dir": "./data/",
+    "number_of_seconds": 60
+}
